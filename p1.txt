@@ -1,4 +1,8 @@
 "Welcome to JNNCE"
 hello jnnce.
 modified in github
+
 Altered in gitbash
+
+Altered in github
+
